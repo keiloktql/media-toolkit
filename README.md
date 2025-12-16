@@ -4,9 +4,7 @@ A toolkit for Le Le's (that's me) media production flow.
 
 ## Disclaimer
 
-> This toolkit is provided as-is. I am not responsible for any damages, data loss, or other issues that may arise from using these scripts. Use at your own risk.
-
-This workflow is tailored for my personal use: **DJI Osmo Pocket 3 → Mac → DaVinci Resolve**. It may not work for everyone or for other editing setups.
+> This toolkit is provided as-is. I am not responsible for any damages, data loss, or other issues that may arise from using these scripts. Use at your own risk. This workflow is tailored for my personal use: **DJI Osmo Pocket 3 → Mac → DaVinci Resolve**. It may not work for everyone or for other editing setups.
 
 ## Script: `lrf_to_proxy.sh` Use Case
 
