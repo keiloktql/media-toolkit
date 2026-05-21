@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Toolkit"
+  short_description: "Prepare DJI Osmo Pocket 3 media for editing workflows."
+  default_prompt: "Use this skill to organize DJI Osmo Pocket 3 LRF files into proxy folders for DaVinci Resolve."
